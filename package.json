@@ -1,0 +1,11 @@
+{
+    "name": "Alexa-SH",
+    "version": "1.0.0",
+    "description": "Integration with the Amazon Echo Smart Home API for controlling your Home Automation server via voice",
+    "keywords": ["Smart Home", "Home Automation", "Lambda", "AWS", "OpenHAB", "Amazon Echo"],
+    "author": "arch1v1st (https://github.com/arch1v1st)",
+    "contributors": [],
+    "dependencies": {
+      "request": "^2.65.0"
+    }
+}

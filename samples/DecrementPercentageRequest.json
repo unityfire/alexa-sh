@@ -1,0 +1,18 @@
+{
+    "header": {
+        "messageId": "01ebf625-0b89-4c4d-b3aa-32340e894686",
+        "name": "DecrementPercentageRequest",
+        "namespace": "Alexa.ConnectedHome.Control",
+        "payloadVersion": "2"
+    },
+    "payload": {
+        "accessToken": "sampleAccessToken",
+        "appliance": {
+            "additionalApplianceDetails": {},
+            "applianceId": "Light_Group_Dimmer_Office"
+        },
+        "deltaPercentage": {
+            "value": 10.0
+        }
+    }
+}
